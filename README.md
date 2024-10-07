@@ -1,1 +1,1 @@
-# p5-jogo-pong
+# p5.jogo-pong
